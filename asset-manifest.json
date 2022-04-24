@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Hirekarma/static/css/main.dca62e57.chunk.css",
+    "main.css": "/Hirekarma/static/css/main.9acafc28.chunk.css",
     "main.js": "/Hirekarma/static/js/main.46f48907.chunk.js",
     "main.js.map": "/Hirekarma/static/js/main.46f48907.chunk.js.map",
     "runtime-main.js": "/Hirekarma/static/js/runtime-main.35a9a5c6.js",
@@ -8,15 +8,15 @@
     "static/js/2.78b4ec1e.chunk.js": "/Hirekarma/static/js/2.78b4ec1e.chunk.js",
     "static/js/2.78b4ec1e.chunk.js.map": "/Hirekarma/static/js/2.78b4ec1e.chunk.js.map",
     "index.html": "/Hirekarma/index.html",
-    "precache-manifest.6678e1723656f19ecf5dff1893382875.js": "/Hirekarma/precache-manifest.6678e1723656f19ecf5dff1893382875.js",
+    "precache-manifest.6c10f0d40ad4bdb2f049e9c3a72ca6ae.js": "/Hirekarma/precache-manifest.6c10f0d40ad4bdb2f049e9c3a72ca6ae.js",
     "service-worker.js": "/Hirekarma/service-worker.js",
-    "static/css/main.dca62e57.chunk.css.map": "/Hirekarma/static/css/main.dca62e57.chunk.css.map",
+    "static/css/main.9acafc28.chunk.css.map": "/Hirekarma/static/css/main.9acafc28.chunk.css.map",
     "static/js/2.78b4ec1e.chunk.js.LICENSE.txt": "/Hirekarma/static/js/2.78b4ec1e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.35a9a5c6.js",
     "static/js/2.78b4ec1e.chunk.js",
-    "static/css/main.dca62e57.chunk.css",
+    "static/css/main.9acafc28.chunk.css",
     "static/js/main.46f48907.chunk.js"
   ]
 }

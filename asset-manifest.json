@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hirekarma/static/css/main.304e716e.chunk.css",
+    "main.js": "/Hirekarma/static/js/main.46f48907.chunk.js",
+    "main.js.map": "/Hirekarma/static/js/main.46f48907.chunk.js.map",
+    "runtime-main.js": "/Hirekarma/static/js/runtime-main.35a9a5c6.js",
+    "runtime-main.js.map": "/Hirekarma/static/js/runtime-main.35a9a5c6.js.map",
+    "static/js/2.78b4ec1e.chunk.js": "/Hirekarma/static/js/2.78b4ec1e.chunk.js",
+    "static/js/2.78b4ec1e.chunk.js.map": "/Hirekarma/static/js/2.78b4ec1e.chunk.js.map",
+    "index.html": "/Hirekarma/index.html",
+    "precache-manifest.904970edec497d3c5e9859aa23b618fc.js": "/Hirekarma/precache-manifest.904970edec497d3c5e9859aa23b618fc.js",
+    "service-worker.js": "/Hirekarma/service-worker.js",
+    "static/css/main.304e716e.chunk.css.map": "/Hirekarma/static/css/main.304e716e.chunk.css.map",
+    "static/js/2.78b4ec1e.chunk.js.LICENSE.txt": "/Hirekarma/static/js/2.78b4ec1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35a9a5c6.js",
+    "static/js/2.78b4ec1e.chunk.js",
+    "static/css/main.304e716e.chunk.css",
+    "static/js/main.46f48907.chunk.js"
+  ]
+}

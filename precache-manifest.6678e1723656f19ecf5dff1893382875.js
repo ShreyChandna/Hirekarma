@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f98311a5b9b17fa6404b1a3f2f58a86b",
+    "revision": "6eade98cd672eba0b09946c2d1d2c8c5",
     "url": "/Hirekarma/index.html"
   },
   {
-    "revision": "aefde5db264a398924f0",
-    "url": "/Hirekarma/static/css/main.304e716e.chunk.css"
+    "revision": "ad38f3af09692c4328af",
+    "url": "/Hirekarma/static/css/main.dca62e57.chunk.css"
   },
   {
     "revision": "a742755305512407baff",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Hirekarma/static/js/2.78b4ec1e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aefde5db264a398924f0",
+    "revision": "ad38f3af09692c4328af",
     "url": "/Hirekarma/static/js/main.46f48907.chunk.js"
   },
   {
